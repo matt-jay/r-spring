@@ -8,7 +8,7 @@ munging: TRUE
 logging: FALSE
 logging_level: INFO
 load_libraries: FALSE
-libraries: reshape2, plyr, dplyr, ggplot2, stringr, lubridate, openxlsx, rjaytools, tibble
+libraries: reshape2, plyr, dplyr, ggplot2, stringr, lubridate, openxlsx, rjaytools, tibble, colorout
 as_factors: FALSE
 data_tables: FALSE
 attach_internal_libraries: FALSE
